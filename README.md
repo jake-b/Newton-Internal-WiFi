@@ -15,15 +15,15 @@ Design and software for a WiFi board for the Apple Newton MessagePad 2x00
 - JAE IL-WX-32PB-VF-BE - Internal Connector - No longer available
 - LMZ21700SILT - Voltage Regulator Module
 - R1 SMD 0603 15k Resistor
-- Cout SMD 0805 22uF  Capacitor
-- Cin, C3  SMD 0805 10uF  Capacitor
-- Css SMD 0603 3.3nF Capacitor "Cbyp" 
+- Cout SMD 0805 22uF Capacitor
+- Cin, C3 SMD 0805 10uF Capacitor
+- Css SMD 0603 3.3nF Capacitor
 - C4 SMD 0805 470nF
-- Rt SMD 0603 562K ohm 1% Resistor "Rt"
-- Rb SMD 0603 180Kohm 0.5% - Resistor "Rb"
+- Rt SMD 0603 562K ohm 1% Resistor
+- Rb SMD 0603 180Kohm 0.5% Resistor
 - MC74VHCT50ADT - Buffer
 - MC74VHC1G04DFT2G - 1G Inverter
-- Resettable Fuses - PPTC 15V 1206 .500A POLYFUSE (Mouser# 576-1206L050/15YR)
+- Resettable Fuses - PPTC 15V 1206 .500A POLYFUSE
 
 # License & Disclaimer
 This project is released under the Attribution-NonCommercial-ShareAlike 4.0 
