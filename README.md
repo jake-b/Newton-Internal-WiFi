@@ -3,8 +3,27 @@ Design and software for a WiFi board for the Apple Newton MessagePad 2x00
 
 - The PCB design for the board (v1.1)
 - The Newton PKG software module for enabling the board in software
-- STL files for 3D printing a replacement modem port cover. (The original
-  port cover interferes with the installed PCB)
+- STL files for 3D printing a replacement modem port cover. The original
+  port cover interferes with the installed PCB.  I have also included a
+  representation of the original port cover, in case you need one.  There
+  is a version with supports for printing on a typical hobbiest 
+  fused-filament 3D printer.  Trim carefully to size using a razor blade.
+
+# Bill of Materials
+
+- IW-SMG2SMT-EX - Wireach WiFi / 802.11 Module - External Antenna
+- JAE IL-WX-32PB-VF-BE - Internal Connector - No longer available
+- LMZ21700SILT - Voltage Regulator Module
+- R1 SMD 0603 15k Resistor
+- Cout SMD 0805 22uF  Capacitor
+- Cin, C3  SMD 0805 10uF  Capacitor
+- Css SMD 0603 3.3nF Capacitor "Cbyp" 
+- C4 SMD 0805 470nF
+- Rt SMD 0603 562K ohm 1% Resistor "Rt"
+- Rb SMD 0603 180Kohm 0.5% - Resistor "Rb"
+- MC74VHCT50ADT - Buffer
+- MC74VHC1G04DFT2G - 1G Inverter
+- Resettable Fuses - PPTC 15V 1206 .500A POLYFUSE (Mouser# 576-1206L050/15YR)
 
 # License & Disclaimer
 This project is released under the Attribution-NonCommercial-ShareAlike 4.0 
@@ -12,7 +31,7 @@ International license.
 
 - Feel free to make your own, or make one for your friends.
 - Please release any improvements back to the community.
-- Commercial use is prohibited.  Please don't sell these at a profit.  If
+- Non-commerical use only. Please don't make & sell these at a profit.  If
   by some odd chance you want to make these for sale, please contact me.
 
 As with all of my projects, please use this at your own risk.
