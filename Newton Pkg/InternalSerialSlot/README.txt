@@ -1,0 +1,1 @@
+See also https://github.com/jake-b/Newton-Internal-Serial-Enabler.git

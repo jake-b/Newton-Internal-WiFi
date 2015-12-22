@@ -1,0 +1,1 @@
+DefConst('kDefaultPrefs, {	serial0internal: nil,	serial3internal: nil,	restoreOnRestart: nil	});DefConst('kSerial0SubsystemIndex, 1);DefConst('kSerial3SubsystemIndex, 3);DefConst('kSetSerialPortSelectExternalMask, 0x20);
