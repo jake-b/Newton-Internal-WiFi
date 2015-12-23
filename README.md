@@ -11,6 +11,7 @@ Design and software for a WiFi board for the Apple Newton MessagePad 2x00
 
 # Bill of Materials
 
+- PCB fabricated to 0.8mm thickness
 - IW-SMG2SMT-EX - Wireach WiFi / 802.11 Module - External Antenna
 - JAE IL-WX-32PB-VF-BE - Internal Connector - No longer available
 - LMZ21700SILT - Voltage Regulator Module
